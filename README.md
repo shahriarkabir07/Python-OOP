@@ -117,6 +117,4 @@ git push -u origin main
 Creating a public repository like this is completely free on GitHub — no
 storage or usage limits apply for a small text-based project like this one.
 
-## 📝 License
 
-Feel free to use, modify, and share this for learning purposes.
